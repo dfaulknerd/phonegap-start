@@ -4,21 +4,21 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>PhoneGap: SGST</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		SGST Test
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://dsfinteractive.com"
+		email="dave@dsfinteractive.com">
+		Dave Faulkner
 	</author>
 
-	<icon src="icon.png" gap:role="default" />
+	<icon src="new-icon.png" gap:role="default" />
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
-	<preference name="orientation" value="portrait" />
+	<preference name="orientation" value="landscape" />
 </widget>
